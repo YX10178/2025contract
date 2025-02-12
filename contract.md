@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 24 2025
+January 31 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
